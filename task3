@@ -1,0 +1,24 @@
+
+<h1>contact me</h1>
+<p>fell free to reach out by feeling out the form</p>
+<form>
+<label>name:</label>
+<br>
+<input type="text" placeholder="enter first name">
+<br>
+
+<label>email:</label>
+<br>
+<input type="text" placeholder="enter your email">
+
+<br>
+<label>message:</label>
+<br>
+<textarea></textarea>
+<br>
+
+<button type="submit">send</button>
+<br>
+
+<a href="home.com">back to home</a>
+</form>
