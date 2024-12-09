@@ -1,4 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>task</title>
+</head>
 
+<body>
 <h1>contact me</h1>
 <p>fell free to reach out by feeling out the form</p>
 <form>
@@ -22,3 +29,5 @@
 
 <a href="home.com">back to home</a>
 </form>
+</body>
+</html>
