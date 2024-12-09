@@ -1,0 +1,42 @@
+
+<h1>welcome to my personal website</h1>
+<p>this website is all about me ,my hobbies,and how you can contact us</p>
+<a href="aboutus.com">about us</a>/<a href="contact.com">contact</a>
+<h2>A Gilmpse into my life</h2>
+<p>here is a short video showing some of my favaoitre activites</p>
+<video controls autoplay >
+    <sourcs src="https://www.youtube.com/watch?v=yOJkygDGWvU" type="video.mp4"></sourcs>
+</video>
+<h2>my favourite music</h2>
+<p>here is a piece of music i enjoy listening to while coding</p>
+<audio controls>
+    <source src="media/ghosts.mp3">
+</audio>
+
+
+<hr>
+<h1>contact me</h1>
+<p>fell free to reach out by feeling out the form</p>
+<form>
+<label>name:</label>
+<br>
+<input type="text" placeholder="enter first name">
+<br>
+
+<label>email:</label>
+<br>
+<input type="text" placeholder="enter your email">
+
+<br>
+<label>message:</label>
+<br>
+<textarea></textarea>
+<br>
+
+<button type="submit">send</button>
+<br>
+
+<a href="home.com">back to home</a>
+</form>
+</body>
+</html>
