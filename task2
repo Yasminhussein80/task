@@ -1,4 +1,10 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>task</title>
+</head>
+<boby>
 <h1>welcome to my personal website</h1>
 <p>this website is all about me ,my hobbies,and how you can contact us</p>
 <a href="aboutus.com">about us</a>/<a href="contact.com">contact</a>
@@ -12,8 +18,6 @@
 <audio controls>
     <source src="media/ghosts.mp3">
 </audio>
-
-
-
 </body>
 </html>
+
